@@ -2,12 +2,12 @@
 
 ## Develop Azure compute solutions (25-30%)
 ### Implement IaaS solutions
- provision VMs
- configure VMs for remote access
- create ARM templates
- create container images for solutions by using Docker
- publish an image to the Azure Container Registry
- run containers by using Azure Container Instance
+* provision VMs
+* configure VMs for remote access
+* create ARM templates
+* create container images for solutions by using Docker
+* publish an image to the Azure Container Registry
+* run containers by using Azure Container Instance
 
 ### Create Azure App Service Web Apps
  create an Azure App Service Web App
@@ -85,3 +85,6 @@
  implement solutions that use Azure Service Bus
  implement solutions that use Azure Queue Storage queues
 
+
+[Quickstart: Create an ASP.NET Core web app in Azure](https://docs.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?pivots=platform-windows&tabs=netcore31)
+[Azure App Service plan overview](https://docs.microsoft.com/en-us/azure/app-service/overview-hosting-plans?toc=/azure/app-service/containers/toc.json)
