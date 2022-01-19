@@ -1,6 +1,6 @@
 # AZ-204  Developing Solutions for Microsoft Azure
 
-## Develop Azure compute solutions (25-30%)
+## [Develop Azure compute solutions (25-30%)](https://github.com/codess-aus/AZ-204/blob/main/compute.md)
 ### Implement IaaS solutions
 * provision VMs
 * configure VMs for remote access
